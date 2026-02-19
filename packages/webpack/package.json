@@ -44,7 +44,7 @@
     "h3": "npm:h3-nightly@2.0.0-1718872656.6765a6e",
     "jiti": "^2.4.0",
     "knitwork": "^1.1.0",
-    "lodash-es": "4.17.21",
+    "lodash-es": "4.17.23",
     "magic-string": "^0.30.14",
     "memfs": "^4.14.0",
     "mini-css-extract-plugin": "^2.9.2",
