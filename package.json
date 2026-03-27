@@ -90,7 +90,7 @@
     "eslint-plugin-perfectionist": "4.1.2",
     "eslint-typegen": "0.3.2",
     "h3": "npm:h3-nightly@2.0.0-1718872656.6765a6e",
-    "happy-dom": "15.11.7",
+    "happy-dom": "20.8.8",
     "jiti": "2.4.0",
     "knip": "5.38.2",
     "markdownlint-cli": "0.43.0",
